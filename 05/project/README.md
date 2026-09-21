@@ -3,7 +3,7 @@
 INSTRUKCJA URUCHAMIANIA PROJEKTU DJANGO W KONTENERZE DOCKER (POSTGRESQL)
 
 STRUKTURA KATALOGU:
-* `app/` - kod źródłowy projektu Django
+* `core/` - konfiguracja i kod źródłowy projektu Django
 * `Dockerfile` - konfiguracja obrazu dla aplikacji Django
 * `docker-compose.yml` - definicja usług Django + PostgreSQL
 * `requirements.txt` - zależności Pythona
